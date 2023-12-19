@@ -1,0 +1,10 @@
+img{
+    width: 780px;
+    justify-content: center;
+    margin-left: 180px;
+}
+h1{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+}
